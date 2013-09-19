@@ -32,4 +32,4 @@ requires:
 resources:
   bugtracker: http://rt.cpan.org/NoAuth/Bugs.html?Dist=Timed-Logger
   license: http://dev.perl.org/licenses/
-version: 0.0.2
+version: 0.0.3
