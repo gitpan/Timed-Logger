@@ -33,4 +33,4 @@ resources:
   bugtracker: http://rt.cpan.org/NoAuth/Bugs.html?Dist=Timed-Logger
   license: http://dev.perl.org/licenses/
   repository: git://github.com/mar-kolya/Timed-Logger.git
-version: 0.0.5
+version: 0.0.6
